@@ -1,8 +1,7 @@
-<div id="container" style="position:relative;">
-<div style="float:left"><h1> Assumptions and Non-Parametric Statistics </h1></div>
-<div style="position:relative; float:right"><img style="height:65px" src ="https://drive.google.com/uc?export=view&id=1EnB0x-fdqMp6I5iMoEBBEuxB_s7AmE2k" />
-</div>
-</div>
+---
+layout = Post
+Title = Assumptions and Parametric Stats
+---
 
 
 ```python
