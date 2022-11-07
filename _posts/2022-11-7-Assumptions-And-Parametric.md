@@ -1,6 +1,6 @@
 ---
-layout = Post
-Title = Assumptions and Parametric Stats
+layout : Post
+Title : Assumptions and Parametric Stats
 ---
 
 
