@@ -13,11 +13,8 @@ I am a Master's Student in Applied Statistics for Social Science Research at New
 - **Statistics**
 - **Computational Social Science**
 
-## Publications 
-
-
-
 ## Projects 
+
 
 [Can LLMs Compare to Human Content Moderators?](https://github.com/pdebree/CommunityNotes_Project)                                       
 Fall 2025 | NYU Course Project for Messy Data and Machine Learning (APSTA-GE 2047)
