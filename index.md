@@ -14,7 +14,16 @@ I am a Master's Student in Applied Statistics for Social Science Research at New
 - **Computational Social Science**
 
 
-## Projects 
+## Publications 
+
+
+**de Bree**, P., Mesalles, V., Morelli, A., Downey, D., Wang, X., Chouthai, M., Lepore, N., Harel, D. Don’t worry, I asked ChatGPT: Investigating use of Generative artificial intelligence among sexual and gender minorities and cisgender heterosexual individuals. (Under Review) *Journal of Homosexuality*.
+
+Scott, M., **de Bree, P.**, Vandewalle, V., Gauthier, JA., Le Goff, JM. What Counts? The Use of History in Sequence Analysis and Prediction (Under Review) *Sociological Methodology* 
+
+
+## Projects
+
 
 
 [Can LLMs Compare to Human Content Moderators?](https://github.com/pdebree/CommunityNotes_Project)                                       
