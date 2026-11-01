@@ -13,6 +13,7 @@ I am a Master's Student in Applied Statistics for Social Science Research at New
 - **Statistics**
 - **Computational Social Science**
 
+
 ## Projects 
 
 
