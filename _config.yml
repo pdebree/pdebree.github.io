@@ -12,7 +12,7 @@ canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
 # If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/.pdf
+cv_link: ./assets/files/PippideBreeCV.pdf
 github_link: https://github.com/pdebree
 linkedin: https://www.linkedin.com/in/pippi-de-bree/
 
