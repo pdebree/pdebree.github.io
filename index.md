@@ -27,8 +27,3 @@ Presented findings in an interactive presentation with real-time recommendations
 
 
 
-
-
-{% include_relative _includes/publications.md %}
-
-{% include_relative _includes/services.md %}
