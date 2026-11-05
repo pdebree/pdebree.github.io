@@ -6,13 +6,18 @@ layout: homepage
 
 Hi! I am a Master's Student in Applied Statistics for Social Science Research at New York University. 
 
+My research interests include methods for modeling latent traits across repeated measures. In general, I am interested modeling time-driven variation in latent traits and corresponding practical questions about survey design. I hold an Bachelor's of Arts from Boston University in Economics and Mathematics, with a Minor in Computer Science. 
+
 Outside of work, I really enjoy fiber crafts, logic puzzles and biking around the city!
 
 ## Research Interests
 
 - Latent Variable Modeling
+- Representation Learning
+- Repeated Measures
+- Survey Design 
 - Psychometrics
-- Statistics
+- Bayesian Statistics
 - Computational Social Science
 
 
